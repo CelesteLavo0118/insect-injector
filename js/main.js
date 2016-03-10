@@ -1,7 +1,7 @@
 // Create your variable here, name it `insects`
 var insects = [{
     name: 'Ant Nest Beetle',
-    image: 'ant-nest-beetle.jpg',
+    img: 'ant-nest-beetle.jpg',
     family: 'Carabidae',
     size: [6, 20],
     eatsInsects: true,
@@ -10,7 +10,7 @@ var insects = [{
   },
   {
     name: 'Dung Beetle',
-    image: 'dung-beetle.jpg',
+    img: 'dung-beetle.jpg',
     family: 'Scarabidae',
     size: [20, 30],
     food: {eatsInsects: false,
@@ -20,7 +20,7 @@ var insects = [{
   },
   {
     name: 'Stag Beetle',
-    image: 'stag-beetle.jpg',
+    img: 'stag-beetle.jpg',
     family: 'Lucanidae',
     size: [5, 120],
     food {eatsInsects: false,
@@ -30,7 +30,7 @@ var insects = [{
   },
   {
     name: 'Dung Beetle',
-    image: 'dung-beetle.jpg',
+    img: 'dung-beetle.jpg',
     family: 'Scarabidae',
     size: [20, 30],
     food: {eatsInsects: false,
@@ -40,7 +40,7 @@ var insects = [{
   },
   {
     name: 'Dung Beetle',
-    image: 'dung-beetle.jpg',
+    img: 'dung-beetle.jpg',
     family: 'Scarabidae',
     size: [20, 30],
     food: {eatsInsects: false,
@@ -50,7 +50,7 @@ var insects = [{
   },
   {
     name: 'Tortoise Beetle',
-    image: 'tortoise-beetle.jpg',
+    img: 'tortoise-beetle.jpg',
     family: 'Cassidinae',
     size: [1, 18],
     food: {eatsInsects: false,
